@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplathanus_strapi_api=self.webpackChunkplathanus_strapi_api||[]).push([[2411],{45442:a=>{a.exports={}}}]);
